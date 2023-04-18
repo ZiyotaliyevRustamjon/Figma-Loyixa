@@ -1,0 +1,222 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header .header-bar{
+    background-color: #3B3937;
+    padding: 20px 60px;
+}
+.header-bar nav a{
+    font-size: 13px;
+    text-decoration: none;
+    margin-left: 30px;
+    color: #fff;
+}
+.header-bar nav .color-link{
+    color: #FFD6A8;
+}
+.header-bar .signIn button{
+    padding: 5px 30px;
+    background-color: #A9845C;
+    color: #fff;
+    border: none;
+}
+
+.ru-section1{
+    width: 98%;
+    height: 100vh;
+    background-image: url("./Images/Rectangle\ 1.png");
+    margin: auto;
+    margin-top: 13px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ru-section1 .circle{
+    width: 450px;
+    height: 450px;
+    background-color: #333333b6;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+.circle .circle-title1{
+    text-align: center;
+    font-family:fantasy;
+    color: #fff;
+    padding-top: 30px;
+}
+.circle .circle-title2{
+    color: #FFD6A8;
+    text-align: center;
+    font-family:fantasy;
+}
+.circle .circle-text1{
+    text-align: center;
+    color: #fff;
+    padding-top: 30px;
+}
+.circle .circle-btn{
+    padding: 5px 40px;
+    border: none;
+    background-color: #A9845C;
+    color: #fff;
+    margin-top: 20px;
+}
+.circle-menu{
+    padding-top: 30px;
+    color: #fff;
+}
+.circle .circle-menu2{
+    position: absolute;
+    top: 370px;
+    left: 270px;
+}
+.ru-section2{
+    margin-top: 60px;
+}
+
+
+/* MuhammadAli */
+
+header .ma-title{
+    font-size: 40px;
+    text-transform: capitalize;
+    padding-left: 105px;
+}
+.main-image {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 40px;
+}
+
+
+.ma-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ma-box button {
+    padding: 10px 45px;
+    border: 1px solid rgba(0, 0, 0, 0.358);
+}
+
+.images1 {
+    width: 150px;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+}
+
+.images2 {
+    width: 150px;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+}
+
+.images3 {
+    width: 150px;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+}
+
+.images4 {
+    width: 150px;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+}
+
+.images5 {
+    width: 150px;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+}
+
+.images6 {
+    width: 150px;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+}
+
+.images7 {
+    width: 150px;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+}
+
+.images8 {
+    width: 150px;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+}
+
+.images9 {
+    width: 150px;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+}
+.ma-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.ma-button button{
+    padding: 10px 510px;
+    border: 1px solid rgba(0, 0, 0, 0.439);
+}
+
+.frame1 {
+    width: 100%;
+    height: auto;
+    justify-content: center;
+}
+
+
+/* MUHAMMADALI 2 */
+
+.n1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.n5 p {
+    color: white;
+}
+
+.n9 img {
+    border: 2px solid white;
+    border-radius: 6px;
+}
+
+footer .footer-bar{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+footer .footer-bar h1{
+    text-align: center;
+    color: #fff;
+    padding-top: 130px;
+}

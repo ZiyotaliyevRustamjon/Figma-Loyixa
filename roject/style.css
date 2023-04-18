@@ -1,0 +1,13 @@
+.n1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.n5 p {
+    color: white;
+}
+
+.n9 img {
+    border: 2px solid white;
+    border-radius: 6px;
+}
